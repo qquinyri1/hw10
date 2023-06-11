@@ -54,3 +54,4 @@ class Record:
             'name': self.name.value,
             'phones': [phone.value for phone in self.phones]
         }
+
